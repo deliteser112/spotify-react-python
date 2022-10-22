@@ -1,0 +1,3 @@
+[submodule "reference/git-sub-module"]
+	path = reference/git-sub-module
+	url = https://github.com/zhoulinchen11/client.git

@@ -1,0 +1,3 @@
+[submodule "spotify_copy"]
+	path = spotify_copy
+	url = https://github.com/zhoulinchen11/client.git
